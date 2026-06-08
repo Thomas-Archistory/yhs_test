@@ -1,0 +1,6 @@
+{
+  "name": "K-INNOVATE Corporate Site",
+  "description": "A fully static corporate holding page built exclusively with HTML, Tailwind via CDN, and Vanilla JS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
